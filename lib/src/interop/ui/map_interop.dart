@@ -1,3 +1,5 @@
+// ignore_for_file: doc_directive_unknown
+
 @JS('mapboxgl')
 library mapboxgl.interop.ui.map;
 

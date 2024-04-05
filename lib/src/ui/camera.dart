@@ -1,3 +1,5 @@
+// ignore_for_file: doc_directive_unknown
+
 library mapboxgl.ui.camera;
 
 import 'package:js/js_util.dart';

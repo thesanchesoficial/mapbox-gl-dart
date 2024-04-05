@@ -1,7 +1,8 @@
+// ignore_for_file: doc_directive_unknown
+
 library mapboxgl.ui.map;
 
 import 'dart:html';
-import 'dart:js';
 import 'package:js/js_util.dart';
 import 'package:mapbox_gl_dart/mapbox_gl_dart.dart';
 import 'package:mapbox_gl_dart/src/interop/interop.dart';
